@@ -1,17 +1,21 @@
 ## Studio Name Ideas
 - **Primary Ideas:**
-  - [Insert name idea 1]
-  - [Insert name idea 2]
-  - [Insert name idea 3]
+  - Trader Games
+  - Flareware
+  - StudioJT
 - **Alternative Ideas:**
-  - [Insert alternative name idea 1]
-  - [Insert alternative name idea 2]
-  - [Insert alternative name idea 3]
+  - Trader Entertainment
+  - JAT
+  - TSoft
 
-- **Chosen Name**:
-- **About the name**:
+- **Chosen Name**: Flareware
+- **About the name**: A common username I like to use is Flare, so I thought it would be cool to somehow incorporate it into the studio name. I wanted it to sound cool while also sounding professional. It also rolls off the tongue quite well. 
 - **Social Medias with name available**:
+- X - Flareware
+- Instagram - Flareware
 - **Possible domain names available**:
+- www.flareware.com
+- www.flareware.net
 
 ---
 
@@ -19,16 +23,20 @@
 *What is the mission of your solo game studio? How does it align with creating and analyzing innovative game architectures?*
 
 > [Write a concise and inspiring vision statement here.]
-
+Our mission at Flareware is to make unique games with that extra flare of excitement to really get people excited. We want people to be pumped to play our games and not know what to expect. We will do this by always attempting unique and interesting things in our game to find that aforementioned flare. Flare is really the name of the game in this company and that flare is the power we hope to use to spread endless joy and happiness to anyone who plays our games. This company is strictly players-first focused and will always do everything in the interest of the player.
 ---
 
 ## Core Values
 *What principles guide your studio's approach to game design, architecture, and development?*
 
 - [Value 1: e.g., Thoughtful Design]
+- Simple and fun design
 - [Value 2: e.g., Player-Centered Innovation]
+- Unique and interesting gameplay
 - [Value 3: e.g., Simplicity in Architecture]
+- Accessibilty for everyone
 - [Value 4: e.g., Experimentation with Mechanics]
+- Experimental mechanics
 
 ---
 
@@ -36,6 +44,7 @@
 *Who are your games designed for? Identify your primary audience based on your focus on card and board games.*
 
 - **Demographic:** [e.g., Casual Players, Board Game Enthusiasts, Indie Game Fans]
+-  Casual gamers, 
 - **Interests:** [e.g., Strategic Gameplay, Narrative-Driven Experiences, Multiplayer Fun]
 - **Platforms:** [e.g., PC, Web, Mobile]
 
