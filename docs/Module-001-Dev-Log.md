@@ -17,19 +17,19 @@
 #### Progress
 - **What I accomplished**:
   - Summarize completed tasks or progress made.
-  - <!--Your entry here or N/A if not applicable for this entry-->
+  <!--Your entry here or N/A if not applicable for this entry-->
   I was able to successfully set up a Github webpage and get everything working just as shown in the lecture, and I was able to activate Github Education as well. 
   I also got my Discord set up with the Learn site and joined the class
   Discord server with the applicable roles. Finally, the big one was completing the Studio Brainstorm which proved to be a bit more difficult than I anticipated.
 - **Challenges faced**:
   - Describe blockers, bugs, or issues encountered.
-  -  <!--Your entry here or N/A if not applicable for this entry-->
+   <!--Your entry here or N/A if not applicable for this entry-->
    When I first tried to join Github Education, I actually got rejected for some reason but fortunately I was eventually able to get in. It was pretty difficult to come up with good
    ideas for my studio while I was working on the brainstorm assignment so some ideas may not be the most creative, but I did my best. Also when I was designing the logo, my laptop crashed
    a few times for some reason and I lost everything I worked on, so I had to start over a few times which set me back a little and was also a little annoying. 
 - **Solutions**:
   - Detail how you addressed challenges or your thought process.
-  -  <!--Your entry here or N/A if not applicable for this entry-->
+    <!--Your entry here or N/A if not applicable for this entry-->
   When Github rejected my application, they told me why I was rejected. So I did what they suggested I do and applied again, then after a few days I was approved to get in. It wasn't too bad.
   As for coming up with ideas, I did end up searching Google for information on existing game studios to draw some inspiration from them. For example, the name Flareware was pretty heavily
   inspired by Bioware. I based my company values on things I feel studios should be doing today, but just choose not to for whatever reason. The goal was to create the ideal game studio to make
@@ -41,12 +41,11 @@
 
 #### Learnings
 - Key insights, techniques, or concepts explored.
--  <!--Your entry here or N/A if not applicable for this entry-->
+   <!--Your entry here or N/A if not applicable for this entry-->
 N/A
 
 #### Free Thinking
-- Brainstorm or reflect on design ideas, architecture patterns, or potential improvements.
--  <!--Your entry here or N/A if not applicable for this entry-->
+- Brainstorm or reflect on design ideas, architecture patterns, or potential improvements.  <!--Your entry here or N/A if not applicable for this entry-->
 N/A
 <!--
 
@@ -58,6 +57,5 @@ N/A
 -->
 
 #### Next Steps
-- Tasks or experiments to focus on during the next session.
--  <!--Your entry here or N/A if not applicable for this entry-->
+- Tasks or experiments to focus on during the next session.  <!--Your entry here or N/A if not applicable for this entry-->
 Come up with an idea/plan for a game to work on throughout the semester. Also plan on getting the necessary materials to build whatever I need for my project.
