@@ -21,19 +21,13 @@
   - I completed all of the questions given in the Case Study. it took a lot longer than anticipated, but I'm pretty happy with what I was
     able to find and come up with.
 - **Challenges faced**:
-  -  When I first played the game, I couldn't figure out how to actually play the game. No matter what button I pressed, nothing would happen so
-  I thought the game didn't work. I tried the game on a few different websites all with the same results so I was stuck for a bit until I was able 
-  to figure out how it works.
+  -  When I first played the game, I couldn't figure out how to actually play the game. No matter what button I pressed, nothing would happen so I thought the game didn't work. I tried the game on a few different websites all with the same results so I was stuck for a bit until I was able to figure out how it works.
 - **Solutions**:
-  -  The video I found gave me a better idea of how the game is supposed to work and I quickly realized what I was doing wrong. After viewing the video
-  again, I tried the game again and was able to actually play the game for awhile.
+  -  The video I found gave me a better idea of how the game is supposed to work and I quickly realized what I was doing wrong. After viewing the video again, I tried the game again and was able to actually play the game for awhile.
 
 #### Learnings
 - Key insights, techniques, or concepts explored.
-- I learned a lot about the Atari and the games it played. The hardware limitations did limit the possibilities of the games so they had to be kept
-relatively simple and Spider-Man was no exception. The game is extremely simple, but it still manages to stand out thanks to innovative programming
-and ideas. That's what makes things like this so cool to me because the developers need to get really creative to work around the limmitations of
-the consoles. This doesn't go just for the Atari, but for all consoles and hardware in general. 
+- I learned a lot about the Atari and the games it played. The hardware limitations did limit the possibilities of the games so they had to be kept relatively simple and Spider-Man was no exception. The game is extremely simple, but it still manages to stand out thanks to innovative programming and ideas. That's what makes things like this so cool to me because the developers need to get really creative to work around the limmitations of the consoles. This doesn't go just for the Atari, but for all consoles and hardware in general. 
 
 #### Free Thinking
 -  N/A <!--Your entry here or N/A if not applicable for this entry-->
