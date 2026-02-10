@@ -30,7 +30,7 @@
 - I learned a lot about the Atari and the games it played. The hardware limitations did limit the possibilities of the games so they had to be kept relatively simple and Spider-Man was no exception. The game is extremely simple, but it still manages to stand out thanks to innovative programming and ideas. That's what makes things like this so cool to me because the developers need to get really creative to work around the limmitations of the consoles. This doesn't go just for the Atari, but for all consoles and hardware in general. 
 
 #### Free Thinking
--  N/A <!--Your entry here or N/A if not applicable for this entry-->
+-  N/A
 <!--
 
 - Example prompts:
