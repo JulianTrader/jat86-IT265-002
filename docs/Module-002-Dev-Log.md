@@ -2,15 +2,9 @@
 ## Name: Julian Trader
 ### Module: 2
 
-<!-- Repeat the below as needed-->
 ### Date: 02/09/2026
 
 #### Goals for this Module
-<!-- Example Template (include the brackets to make a checklist, fill them in as appropriate
-- [ ] Goal 1
-- [ ] Goal 2
-- [ ] Goal 3
--->
 - [x] Find and play chosen Atari game
 - [x] Complete Case Study Assignment on my chosen Atari game
 #### Progress
@@ -31,14 +25,6 @@
 
 #### Free Thinking
 -  N/A
-<!--
-
-- Example prompts:
-  - "What if the player interactions were asynchronous instead of real-time?"
-  - "How could ECS improve performance in this system?"
-  - "Does my current design support scalability? How can it improve?"
-  
--->
 
 #### Next Steps
 - Continue learning about Game Development ideas and come up with ideas for my project.
