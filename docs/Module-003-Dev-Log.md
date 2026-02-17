@@ -38,15 +38,8 @@
 
 #### Free Thinking
 -  Thinking about my project is interesting because I really don't know how it would turn out. Right now it's just an idea and I have no idea if it'll
-   work or be as cool as I think it is. It's a little worried, but I'm excited to get started on it abd see how it comes out. I still do want to
+   work or be as cool as I think it is. It's a little worried, but I'm excited to get started on it and see how it comes out. I still do want to
    try to come up with a few more ideas to spice up the game and see what happens.
-<!--
-- Example prompts:
-  - "What if the player interactions were asynchronous instead of real-time?"
-  - "How could ECS improve performance in this system?"
-  - "Does my current design support scalability? How can it improve?"
-  
--->
 
 #### Next Steps
 - N/A
