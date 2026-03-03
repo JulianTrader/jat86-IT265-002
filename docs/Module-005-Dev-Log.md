@@ -23,10 +23,9 @@
   - I opted to give up trying to finish on time to focus on other obligations since I have an exam coming up and need to study for it. I'll finish it later on.
 
 #### Learnings
-- N/A
+- I learned more about what I wanted with my game and also got feedback from the professor and the class on what I could do to make the game a bit more interesting and unique. The original idea was cool, but a bit unoriginal and lacking in interesting gameplay decisions so I tried to come up with cool ideas to spice up the gameplay and I think  I was kind of successful.
 
 #### Free Thinking
 - I was able to come up with some decent ideas for my project that I think make the game a bit more interesting. 
 #### Next Steps
-- Tasks or experiments to focus on during the next session.
--  <!--Your entry here or N/A if not applicable for this entry-->
+- Finish the checkpoint assignment and maybe come up with even more ideas for the game.
