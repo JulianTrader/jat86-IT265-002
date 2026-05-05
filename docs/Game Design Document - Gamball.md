@@ -7,13 +7,15 @@
 **Change Log**  
 *Physical Prototype*
 
-- Changed design of board during the building of the physical prototype. Initially one small hole for the ball to go through, now much longer for more space, variety. and player choice   
-- Changed how items work. Originally called “Power Ups”, that would be used on the opponent to give them a variety of effects. Now called “Items” to be used on the user to give them a variety of effects.  
-- Added dice to determine turn order
+- Changed design of board during the building of the physical prototype. Initially one small hole for the ball to go through, now much longer for more space, variety, and player choice.   
+- Changed how items work. Originally called “Power Ups”, that would be used on the opponent to give them a variety of effects. Now called “Items” to be used on the user to give them a variety of effects. This change was made to streamline the items a little more and make tem
+a little less confusing and make more sense in gameplay.
+- Added dice to determine turn order.
 
 *Digital Prototype*
 
-- Swapped red and green for more clarity. Originally green was \-10 points and red was \+100, points are now swapped.
+- Swapped red and green for more clarity. Originally green was \-10 points and red was \+100, points are now swapped. Their positions on
+the board are also swapped.
 
 ## Table of contents
 
